@@ -11,7 +11,7 @@ This repo is a personal collection of all my Python practice — from basic prin
 Whether it's:
 - ✨ Variables and data types
 - 🔄 Loops and conditions
-- 🧠 100_Days_of_PYTHON_code_challenge 
+- 🧠 100 Days of Python Code Challenge 
 - 📦 Functions and OOP
 - 🧪 Logical challenges
 - 🔧 Mini utilities
