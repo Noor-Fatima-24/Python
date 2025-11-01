@@ -1,40 +1,23 @@
-# Variables can store data of different types, and different types can do different thing
+# Day 3: Exploring print(), indentation, and computations in Python
 
-# Getting the Data Type
-# You can get the data type of any object by using the type() function:
-a = 23
-b = "HEY"
+print("Welcome to Day 3 of my Python learning journey!")
 
-print("Type of a is:", type(a))
-print("Type of b is:", type(b))
+# Showing different data types
+print("String Example:", "Python")
+print("Integer Example:", 25)
+print("Float Example:", 3.14)
+print("Boolean Example:", True)
 
-# Assigning Values
+# Indentation example using if statement
+num = 10
+if num > 5:
+    print("The number is greater than 5")   # Indented block
 
-a = 89        # int
-b = 3.14      # float
-c = "HEY"     # string
-d = True      # boolean
-
-# complex is a built-in data type used to represent complex numbers (numbers that have a real part and an imaginary part).
-
-z = 3 + 5j    # complex
-print(z)
-
-n = complex(3, 5)   # same as 3+5j
-print(n)       
-
-print()
+# Performing computations inside print()
+print("Addition:", 5 + 3)
+print("Subtraction:", 10 - 4)
+print("Multiplication:", 2 * 6)
+print("Division:", 12 / 3)
+print("Power:", 2 ** 4)
 
 
-# Python Operators
-# Operators are used to perform operations on variables and values.
-print(20 + 5)
-# Python divides the operators in the following groups:
-
-# Arithmetic operators
-# Assignment operators
-# Comparison operators
-# Logical operators
-# Identity operators
-# Membership operators
-# Bitwise operators
