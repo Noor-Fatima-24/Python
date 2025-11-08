@@ -1,3 +1,5 @@
+pip install pandas
+
 # Day 2: Exploring print() and comments in Python
 
 print("Welcome to Day 2 of my Python learning journey!")
