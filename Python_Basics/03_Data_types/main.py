@@ -1,12 +1,6 @@
-# Day 3: Exploring print(), indentation, and computations in Python
+# Day 3: Exploring indentation and computations in Python
 
 print("Welcome to Day 3 of my Python learning journey!")
-
-# Showing different data types
-print("String Example:", "Python")
-print("Integer Example:", 25)
-print("Float Example:", 3.14)
-print("Boolean Example:", True)
 
 # Indentation example using if statement
 num = 10

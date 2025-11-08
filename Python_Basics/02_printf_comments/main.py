@@ -4,11 +4,6 @@ print("Welcome to Day 2 of my Python learning journey!")
 
 # print() is a built-in Python function that instructs the computer to display text on the screen.
 
-# Showing different data types
-print("String Example:", "Python")
-print("Integer Example:", 25)
-print("Float Example:", 3.14)
-print("Boolean Example:", True)
 
 # this is a single line comment !
 '''
