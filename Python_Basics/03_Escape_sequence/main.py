@@ -6,18 +6,18 @@ print("Welcome to Day 3 of my Python learning journey!")
 
 # Escape Sequence Examples
 
-print("This is a backslash: \\")
-print('It\'s OK')
-print("He said, \"Hi!\"")
-print("Hello\nWorld")
-print("Name:\tVelora")
-print("Hello\rWorld")
-print("Helloo\b")
-print("Hello\fWorld")
-print("\a")
-print("Hello\vWorld")
-print("\110\145\154\154\157")      # Octal -> Hello
-print("\x48\x65\x6C\x6C\x6F")     # Hexadecimal -> Hello
+print("Hello\nWorld")          # \n = New line
+print("Python\tProgramming")   # \t = Tab space
+print('It\'s a sunny day!')    # \' = Single quote
+print("He said, \"Its NOOR!\"")  # \" = Double quote
+print("This is a backslash: \\")      # \\ = Backslash
+print("12345\rABCD")           # \r = Carriage return
+print("Python\b3")             # \b = Backspace
+print("Hello\fWorld")          # \f = Form feed (page break)
+print("Hello\vPython")         # \v = Vertical tab
+print("\a")                    # \a = Bell (alert sound)
+print("\110\145\154\154\157")  # \ooo = Octal values (Hello)
+print("\x48\x65\x6c\x6c\x6f")  # \xhh = Hex values (Hello)
 print("\N{COPYRIGHT SIGN}")
 print("\u2764")                   # ❤
 print("\U0001F600")               # 😀

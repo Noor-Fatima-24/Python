@@ -1,4 +1,4 @@
-pip install pandas
+
 
 # Day 2: Exploring print() and comments in Python
 
