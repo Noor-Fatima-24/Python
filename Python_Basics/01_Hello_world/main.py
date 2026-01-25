@@ -2,7 +2,7 @@
 # Day 1 
 # Basic hello-world code 
 
-print("Hello World !") 
+print("Hello coding World !") 
 print ("python")
 
 '''
